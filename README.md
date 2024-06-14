@@ -1,4 +1,5 @@
 # JAVA GUI 슬라이딩 퍼즐 게임
+## 객체지향 MVC 패턴 연습하기
 ---
 ![introview](https://github.com/guineaaaa/Sliding-Puzzle-Game-in-JAVA/assets/165776804/e3fdcace-d439-4232-957d-5e8a1a33e00f)
 ##### 시작하기 버튼을 누르면 ChooseView가 Visible()된다. 종료하기 버튼을 누르면 게임 창이 닫힌다
